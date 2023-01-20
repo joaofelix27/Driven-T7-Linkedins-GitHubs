@@ -227,3 +227,7 @@
 - Yan Matheus
 [![LinkedIn]](https://www.linkedin.com/in/yanassis/)
 [![GitHub]](https://github.com/REFSZIN)
+
+- Eduardo Vitor
+[![LinkedIn]](https://www.linkedin.com/in/eduardo-vitor-58a395239/)
+[![GitHub]](https://github.com/EduardoVSR1995)
