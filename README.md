@@ -33,3 +33,7 @@
 - Enzo Araujo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/enzo-araujo-b8422318a/)
 [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/enzojga)
+
+- Raul Riato Silva
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/raulriato/)
+[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/raulriato)
