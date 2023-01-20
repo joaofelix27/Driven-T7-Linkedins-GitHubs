@@ -28,6 +28,10 @@
 [![LinkedIn]](https://www.linkedin.com/in/aryanne-acosta/)
 [![GitHub]](https://github.com/aryanneacosta)
 
+- Bruno Fekete
+[![LinkedIn]](https://www.linkedin.com/in/bruno-fekete-669914262/)
+[![GitHub]](https://github.com/Fekete-Bruno)
+
 - Carlos Casanova
 [![LinkedIn]](https://www.linkedin.com/in/carloscasanovad/)
 [![GitHub]](https://github.com/carlosctu)
