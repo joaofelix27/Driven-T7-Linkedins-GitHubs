@@ -235,3 +235,7 @@
 - Yan Matheus
 [![LinkedIn]](https://www.linkedin.com/in/yanassis/)
 [![GitHub]](https://github.com/REFSZIN)
+
+- Ana Paula Ribeiro Paiva
+[![LinkedIn]](https://www.linkedin.com/in/anapairo/)
+[![GitHub]](https://github.com/ana-pairo)
