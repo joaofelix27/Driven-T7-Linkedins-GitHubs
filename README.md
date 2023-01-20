@@ -20,6 +20,10 @@
 [![LinkedIn]](https://www.linkedin.com/in/analtfernandes/)
 [![GitHub]](https://github.com/AnaLTFernandes)
 
+- Ana Paula Ribeiro Paiva
+[![LinkedIn]](https://www.linkedin.com/in/anapairo/)
+[![GitHub]](https://github.com/ana-pairo)
+
 - Anna Carolina Braga
 [![LinkedIn]](https://www.linkedin.com/in/anna-carolina-braga-6b1086ba/)
 [![GitHub]](https://github.com/anna-braga-jesus)
@@ -235,7 +239,3 @@
 - Yan Matheus
 [![LinkedIn]](https://www.linkedin.com/in/yanassis/)
 [![GitHub]](https://github.com/REFSZIN)
-
-- Ana Paula Ribeiro Paiva
-[![LinkedIn]](https://www.linkedin.com/in/anapairo/)
-[![GitHub]](https://github.com/ana-pairo)
