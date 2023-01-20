@@ -3,4 +3,5 @@
 # Linkedins
 
 - [João Félix Bandeira Tavares da Nóbrega](https://www.linkedin.com/in/joaofelix27/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/joaofelix27)
+- [Rodolfo Sousa da Silva](https://www.linkedin.com/in/rodolfo-sousa/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rosousa)
 
