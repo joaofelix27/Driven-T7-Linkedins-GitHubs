@@ -22,3 +22,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/g-rmc)
 
 
+- Rodrigo Corti Queiroz Barros
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodrigo-corti-barros/)
+[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rodrigocqb)
+
+
