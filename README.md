@@ -52,6 +52,10 @@
 [![LinkedIn]](https://www.linkedin.com/in/gabriel-dutra-411117194/)
 [![GitHub]](https://github.com/ga-dutra)
 
+- Gabriel Salateo Rosin
+[![LinkedIn]](https://www.linkedin.com/in/gabriel-rosin/)
+[![GitHub]](https://github.com/gabao55)
+
 - Guilherme Ícaro
 [![LinkedIn]](https://www.linkedin.com/in/guilhermeicarofr/)
 [![GitHub]](https://github.com/guilhermeicarofr)
