@@ -2,8 +2,6 @@
 
 # Linkedins
 
-- [João Félix Bandeira Tavares da Nóbrega](https://www.linkedin.com/in/joaofelix27/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/joaofelix27)
-- [Rodolfo Sousa da Silva](https://www.linkedin.com/in/rodolfo-sousa/) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rosousa)
-
-- [Wesley Santos de França](https://www.linkedin.com/in/wesley-web-developer) [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Thepaocomovo)
-
+- João Félix [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/joaofelix27) [![GitHub](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joaofelix27/)
+- Rodolfo Sousa [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rosousa) [![GitHub](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodolfo-sousa/)
+- Wesley Santos [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Thepaocomovo) [![GitHub](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wesley-web-developer)
