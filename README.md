@@ -10,6 +10,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joaofelix27/)
 [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/joaofelix27)
 
+- Lucas Pereira Cotrim
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/lucas-pereira-cotrim/)
+[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/LucasPCotrim)
+
 - Rodolfo Sousa da Silva
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodolfo-sousa/)
 [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rosousa)
