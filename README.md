@@ -36,6 +36,10 @@
 [![LinkedIn]](https://www.linkedin.com/in/daniel-pq-barros/)
 [![GitHub]](https://github.com/danielpqb)
 
+- Eduardo Vitor
+[![LinkedIn]](https://www.linkedin.com/in/eduardo-vitor-58a395239/)
+[![GitHub]](https://github.com/EduardoVSR1995)
+
 - Enzo Araujo
 [![LinkedIn]](https://www.linkedin.com/in/enzo-araujo-b8422318a/)
 [![GitHub]](https://github.com/enzojga)
