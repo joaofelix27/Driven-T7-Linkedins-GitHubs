@@ -2,25 +2,17 @@
 
 # Linkedins e GitHubs
 
-- João Félix Bandeira Tavares da Nóbrega 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joaofelix27/)
-[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/joaofelix27)
-
- 
-- Rodolfo Sousa da Silva
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodolfo-sousa/)
-[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rosousa)
-
-
-- Wesley Santos de França
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wesley-web-developer)
-[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Thepaocomovo)
-
-
 - Guilherme Reis Muri Cunha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/guilherme-rmc/)
 [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/g-rmc)
 
+- João Félix Bandeira Tavares da Nóbrega 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joaofelix27/)
+[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/joaofelix27)
+
+- Rodolfo Sousa da Silva
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodolfo-sousa/)
+[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/rosousa)
 
 - Rodrigo Corti Queiroz Barros
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rodrigo-corti-barros/)
@@ -29,5 +21,9 @@
 - Weiller Sousa Amaral Carvalho Mello
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/weillercarvalho/)
 [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/weillercarvalho)
+
+- Wesley Santos de França
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/wesley-web-developer)
+[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Thepaocomovo)
 
 
