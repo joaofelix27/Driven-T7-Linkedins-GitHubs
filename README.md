@@ -152,7 +152,7 @@
 [![LinkedIn]](https://www.linkedin.com/in/renatamilanez/)
 [![GitHub]](https://github.com/renatamilanez)
 
-- Rodolfo Sousa da Silva
+- Rodolfo Sousa
 [![LinkedIn]](https://www.linkedin.com/in/rodolfo-sousa/)
 [![GitHub]](https://github.com/rosousa)
 
