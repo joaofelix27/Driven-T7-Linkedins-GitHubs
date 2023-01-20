@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/joaofelix27)
 
 - Lucas Pereira Cotrim
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/lucas-pereira-cotrim/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-pereira-cotrim/)
 [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/LucasPCotrim)
 
 - Rodolfo Sousa da Silva
@@ -41,3 +41,7 @@
 - João Paulo Ferreira
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-ferreira-de-castro-89591b1a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/Tukkos)
+
+- Gabriel Salateo Rosin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4287f5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gabriel-rosin/)
+[![GitHub](https://img.shields.io/badge/GitHub-ff4791?style=flat&logo=github&logoColor=white)](https://github.com/gabao55)
