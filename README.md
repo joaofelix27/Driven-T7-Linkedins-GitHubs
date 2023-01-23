@@ -239,3 +239,7 @@
 - Yan Matheus
 [![LinkedIn]](https://www.linkedin.com/in/yanassis/)
 [![GitHub]](https://github.com/REFSZIN)
+
+- Lucas Dosualdo
+[![LinkedIn]](https://www.linkedin.com/in/lucasdosualdo/)
+[![GitHub]](https://github.com/lucasdosualdo)
