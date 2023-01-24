@@ -60,6 +60,10 @@
 [![LinkedIn]](https://www.linkedin.com/in/filipegarrote/)
 [![GitHub]](https://github.com/FilipeGarroteDev)
 
+- Francksuel Machado
+[![LinkedIn]](https://www.linkedin.com/in/francksuel-machado)
+[![GitHub]](https://github.com/Francksuel)
+
 - Gabriel Dutra
 [![LinkedIn]](https://www.linkedin.com/in/gabriel-dutra-411117194/)
 [![GitHub]](https://github.com/ga-dutra)
