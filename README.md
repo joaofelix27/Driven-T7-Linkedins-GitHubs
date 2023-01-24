@@ -213,7 +213,7 @@
 [![GitHub]](https://github.com/vinicius-roque)
 
 - Vinicius Viana
-[![LinkedIn]](https://www.linkedin.com/in/vinicius-viana-10a738247/)
+[![LinkedIn]](https://www.linkedin.com/in/vinícius-viana-10a738247/)
 [![GitHub]](https://github.com/ViniVian4)
 
 - Vitor Mangueira
