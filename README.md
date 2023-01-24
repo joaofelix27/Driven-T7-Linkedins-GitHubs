@@ -240,6 +240,10 @@
 [![LinkedIn]](https://www.linkedin.com/in/yanassis/)
 [![GitHub]](https://github.com/REFSZIN)
 
+- Lucas Dosualdo
+[![LinkedIn]](https://www.linkedin.com/in/lucasdosualdo/)
+[![GitHub]](https://github.com/lucasdosualdo)
+
 - Mateus Diniz
 [![LinkedIn]](https://www.linkedin.com/in/mateusdiniz9/)
 [![GitHub]](https://github.com/MateusDiniz9)
