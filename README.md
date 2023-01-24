@@ -239,3 +239,7 @@
 - Yan Matheus
 [![LinkedIn]](https://www.linkedin.com/in/yanassis/)
 [![GitHub]](https://github.com/REFSZIN)
+
+- Mateus Diniz
+[![LinkedIn]](https://www.linkedin.com/in/mateusdiniz9/)
+[![GitHub]](https://github.com/MateusDiniz9)
