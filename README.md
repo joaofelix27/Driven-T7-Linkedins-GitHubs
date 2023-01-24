@@ -56,6 +56,10 @@
 [![LinkedIn]](https://www.linkedin.com/in/felipe-albuquerque-268604241/)
 [![GitHub]](https://github.com/shaman87)
 
+- Felipe Lyra
+[![LinkedIn]](https://www.linkedin.com/in/felipelyra3)
+[![GitHub]](https://github.com/felipelyra3)
+
 - Filipe Garrote
 [![LinkedIn]](https://www.linkedin.com/in/filipegarrote/)
 [![GitHub]](https://github.com/FilipeGarroteDev)
