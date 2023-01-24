@@ -92,6 +92,10 @@
 [![LinkedIn]](https://www.linkedin.com/in/israelfteixeira)
 [![GitHub]](https://github.com/Israel-Felipe)
 
+- Jean Campelo 
+[![LinkedIn]](https://www.linkedin.com/in/jean-campelo/)
+[![GitHub]](https://github.com/jean-campelo)
+
 - João Félix Bandeira Tavares da Nóbrega 
 [![LinkedIn]](https://www.linkedin.com/in/joaofelix27/)
 [![GitHub]](https://github.com/joaofelix27)
