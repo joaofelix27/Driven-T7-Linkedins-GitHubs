@@ -120,6 +120,10 @@
 [![LinkedIn]](https://www.linkedin.com/in/lucas-pereira-cotrim/)
 [![GitHub]](https://github.com/LucasPCotrim)
 
+- Lucas Dosualdo
+[![LinkedIn]](https://www.linkedin.com/in/lucasdosualdo/)
+[![GitHub]](https://github.com/lucasdosualdo)
+
 - Lucas Duarte
 [![LinkedIn]](https://www.linkedin.com/in/duarteprog/)
 [![GitHub]](https://github.com/DuarteProg)
@@ -139,6 +143,10 @@
 - Melissa Modesto
 [![LinkedIn]](https://www.linkedin.com/in/melissamodesto)
 [![GitHub]](https://github.com/melissamodesto)
+
+- Mateus Diniz
+[![LinkedIn]](https://www.linkedin.com/in/mateusdiniz9/)
+[![GitHub]](https://github.com/MateusDiniz9)
 
 - Nicolle Koetzler
 [![LinkedIn]](https://www.linkedin.com/in/nicollekoetzler/)
@@ -243,11 +251,3 @@
 - Yan Matheus
 [![LinkedIn]](https://www.linkedin.com/in/yanassis/)
 [![GitHub]](https://github.com/REFSZIN)
-
-- Lucas Dosualdo
-[![LinkedIn]](https://www.linkedin.com/in/lucasdosualdo/)
-[![GitHub]](https://github.com/lucasdosualdo)
-
-- Mateus Diniz
-[![LinkedIn]](https://www.linkedin.com/in/mateusdiniz9/)
-[![GitHub]](https://github.com/MateusDiniz9)
