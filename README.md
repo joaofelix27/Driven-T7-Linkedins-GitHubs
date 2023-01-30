@@ -152,6 +152,10 @@
 [![LinkedIn]](https://www.linkedin.com/in/mateusdiniz9/)
 [![GitHub]](https://github.com/MateusDiniz9)
 
+- Nathália Grams Teixeira
+[![LinkedIn]](https://www.linkedin.com/in/nathaliagrams/)
+[![GitHub]](https://github.com/halia-gt)
+
 - Nicolle Koetzler
 [![LinkedIn]](https://www.linkedin.com/in/nicollekoetzler/)
 [![GitHub]](https://github.com/nicollekoetzler)
